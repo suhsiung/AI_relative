@@ -1,0 +1,21 @@
+
+## 安裝 SpeechRecognition套件：
+!pip install SpeechRecognition
+## Mac OS增加安裝：
+## !/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+## !brew install portaudio
+
+## 安裝使用麥克風套件: PyAudio
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio -->下載  PyAudio-0.2.11cp37-cp37m-win_amd64.whl  檔案
+開啟 [命令提示字元] 在相同的目錄中 鍵入： pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl [Enter] 完成
+## !pip install PyAudio
+
+## 安裝 gTTS 套件:
+!pip install gTTS    #google_Text_To_Speech
+
+## 安裝 pygame 套件: 負責處理聲音的物件，在此作為播放聲音
+!pip install pygame
+
+## 安裝 HanziConv模組:
+!pip install hanziconv
+
